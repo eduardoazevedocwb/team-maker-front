@@ -40,9 +40,6 @@ export default class Home extends React.Component {
                                         <img src={iconLogo} alt="Team-maker" style={{ height: '8rem' }} />
                                     </a>
                                 </span>
-                                <span className="navbar-caption-wrap">
-                                    <a className="navbar-caption display-7" href="https://mobiri.se" style={{color:"#4B086D"}}>
-                                        Soccer team maker</a></span>
                             </div>
                             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul className="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
