@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Home from './Views/Home';
+import Home from './Components/Home';
 import ErrorBoundary from './Error-boundary';
 
 function App() {
